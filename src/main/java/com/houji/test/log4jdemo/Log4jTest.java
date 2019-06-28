@@ -10,6 +10,7 @@ public class Log4jTest {
         for (int i = 0; i <= 10; i++) {
             int age=1;
             int  r;
+            int  i17i;
             logger.debug("输出i:{},age:{}", i,age);
         }
 
