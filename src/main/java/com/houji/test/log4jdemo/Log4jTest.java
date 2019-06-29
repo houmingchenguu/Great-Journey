@@ -12,6 +12,10 @@ public class Log4jTest {
             int  r;
             int  i17i;
             String hi;
+            
+            
+            
+            //哈哈哈哈哈哈哈哈
             logger.debug("输出i:{},age:{}", i,age);
         }
 
